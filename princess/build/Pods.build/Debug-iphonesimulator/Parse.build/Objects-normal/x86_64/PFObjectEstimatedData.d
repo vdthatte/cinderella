@@ -1,0 +1,6 @@
+dependencies: \
+  /Users/Vidyadhar/Desktop/Github/princess/Pods/Parse/Parse/Internal/Object/EstimatedData/PFObjectEstimatedData.m \
+  /Users/Vidyadhar/Desktop/Github/princess/build/Pods.build/Debug-iphonesimulator/Parse.build/module.modulemap \
+  /Users/Vidyadhar/Desktop/Github/princess/Pods/Target\ Support\ Files/Parse/Parse-prefix.pch \
+  /Users/Vidyadhar/Desktop/Github/princess/Pods/Parse/Parse/Internal/Object/EstimatedData/PFObjectEstimatedData.h \
+  /Users/Vidyadhar/Desktop/Github/princess/Pods/Parse/Parse/Internal/Object/Utilities/PFObjectUtilities.h

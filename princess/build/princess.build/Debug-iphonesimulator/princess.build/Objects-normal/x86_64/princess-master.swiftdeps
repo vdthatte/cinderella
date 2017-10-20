@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "cf069a430042fc9b8d11d64e28b9f77e"
+build_time: [1508456988, 567688000]
+inputs:
+  "/Users/Vidyadhar/Desktop/Github/princess/princess/ViewController.swift": [1508455916, 0]
+  "/Users/Vidyadhar/Desktop/Github/princess/princess/HomeTableViewCell.swift": [1508456427, 0]
+  "/Users/Vidyadhar/Desktop/Github/princess/princess/Cinderella-ViewController.swift": [1508456620, 0]
+  "/Users/Vidyadhar/Desktop/Github/princess/princess/AppDelegate.swift": [1508451774, 0]

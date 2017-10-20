@@ -1,0 +1,6 @@
+framework module Pods_princessTests {
+  umbrella header "Pods-princessTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
